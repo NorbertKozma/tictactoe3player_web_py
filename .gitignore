@@ -1,0 +1,14 @@
+# VS Code mappa
+.vscode/
+
+# Visual Studio mappa (ha esetleg jelen van)
+.vs/
+
+# Info nevű szöveges fájl kizárása
+info.txt
+
+# Általános nem kívánt fájlok
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
