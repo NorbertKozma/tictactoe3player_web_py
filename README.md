@@ -32,7 +32,7 @@ A teszt funkcióban a három játékos szimbólumait lehet elhelyezni a pályán
 
 ## Játékidő
 
-A játékidő beállítása arra szolgál, hogy meghatározzuk egy-vagy tizenhat játszmát szeretnénk.
+A játékidő beállítása arra szolgál, hogy meghatározzuk egy vagy tizenhat játszmát szeretnénk.
 
 ## Technológiák
 
